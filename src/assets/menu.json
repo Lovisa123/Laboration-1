@@ -1,0 +1,25 @@
+[
+    {
+      "name": "The Classic Burger",
+      "gluten": true,
+      "vegetarian" :false,
+      "URL": "https://cdn.cnn.com/cnnnext/dam/assets/220428140436-04-classic-american-hamburgers-full-169.jpg" 
+    }
+    ,
+    {
+      "name": "Chicken burger",
+      "gluten": true,
+      "vegetarian" :false,
+      "URL":"https://www.kitchensanctuary.com/wp-content/uploads/2019/08/Crispy-Chicken-Burger-square-FS-4518.jpg"
+    }
+    ,
+    {
+        "name": "Halloumi burger",
+        "gluten": true,
+        "vegetarian" :true,
+        "URL":"https://www.thelastfoodblog.com/wp-content/uploads/2017/04/Halloumi-Burgers-thumb.jpg"
+      }
+  ]
+
+
+ 
